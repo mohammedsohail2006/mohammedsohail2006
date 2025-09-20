@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Mohammed Sohail]  
+# 👋 Hi, I’m Mohammed Sohail  
 
 💻 **About Me**  
 - 🔭 I’m currently working on a **Waste Management System App** ♻️  
